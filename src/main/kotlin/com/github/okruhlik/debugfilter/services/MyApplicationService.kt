@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.okruhlik.debugfilter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.okruhlik.debugfilter.MyBundle
 
 class MyApplicationService {
 
